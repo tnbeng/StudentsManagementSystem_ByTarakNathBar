@@ -8,11 +8,11 @@
 		<version>3.1.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.sp</groupId>
-	<artifactId>CrmProject</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>CrmProject</name>
-	<description>Demo project for Spring Boot</description>
+	<groupId>in.tarak</groupId>
+	<artifactId>StudentsManagementSystem</artifactId>
+	<version>1.0</version>
+	<name>StudentsManagementSystem</name>
+	<description>My Spring Boot Project</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
